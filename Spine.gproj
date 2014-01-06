@@ -1,0 +1,58 @@
+<project>
+ <properties autorotation="0" encryptAssets="0" fps="60" scaleMode="0" mouseToTouch="1" iosDevice="0" packageName="com.yourdomain.yourapp" logicalHeight="480" logicalWidth="320" mouseTouchOrder="0" encryptCode="0" retinaDisplay="0" touchToMouse="1" assetsOnly="0" orientation="0" architecture="0">
+  <imageScales/>
+ </properties>
+ <folder name="spine-gideros">
+  <file source="spine-gideros/spine.lua"/>
+  <file source="spine-gideros/dkjson.lua"/>
+ </folder>
+ <folder name="spine-lua">
+  <file source="spine-lua/utils.lua"/>
+  <file source="spine-lua/SlotData.lua"/>
+  <file source="spine-lua/Slot.lua"/>
+  <file source="spine-lua/Skin.lua"/>
+  <file source="spine-lua/SkeletonJson.lua"/>
+  <file source="spine-lua/SkeletonData.lua"/>
+  <file source="spine-lua/SkeletonBounds.lua"/>
+  <file source="spine-lua/Skeleton.lua"/>
+  <file source="spine-lua/RegionAttachment.lua"/>
+  <file source="spine-lua/EventData.lua"/>
+  <file source="spine-lua/Event.lua"/>
+  <file source="spine-lua/BoundingBoxAttachment.lua"/>
+  <file source="spine-lua/BoneData.lua"/>
+  <file source="spine-lua/Bone.lua"/>
+  <file source="spine-lua/AttachmentType.lua"/>
+  <file source="spine-lua/AttachmentLoader.lua"/>
+  <file source="spine-lua/AnimationStateData.lua"/>
+  <file source="spine-lua/AnimationState.lua"/>
+  <file source="spine-lua/Animation.lua"/>
+ </folder>
+ <folder name="data">
+  <file source="data/spineboy.json"/>
+  <file source="data/right-upper-leg.png"/>
+  <file source="data/right-shoulder.png"/>
+  <file source="data/right-pant-bottom.png"/>
+  <file source="data/right-lower-leg.png"/>
+  <file source="data/right-hand.png"/>
+  <file source="data/right-foot.png"/>
+  <file source="data/right-foot-idle.png"/>
+  <file source="data/right-arm.png"/>
+  <file source="data/right-ankle.png"/>
+  <file source="data/pelvis.png"/>
+  <file source="data/neck.png"/>
+  <file source="data/left-upper-leg.png"/>
+  <file source="data/left-shoulder.png"/>
+  <file source="data/left-pant-bottom.png"/>
+  <file source="data/left-lower-leg.png"/>
+  <file source="data/left-hand.png"/>
+  <file source="data/left-foot.png"/>
+  <file source="data/left-arm.png"/>
+  <file source="data/left-ankle.png"/>
+  <file source="data/head.png"/>
+  <file source="data/goblins.json"/>
+  <file source="data/eyes.png"/>
+  <file source="data/eyes-closed.png"/>
+  <file source="data/torso.png"/>
+ </folder>
+ <file source="main.lua"/>
+</project>
