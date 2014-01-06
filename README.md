@@ -1,5 +1,4 @@
-[Spine](http://esotericsoftware.com) runtime for [Gideros](http://giderosmobile.com) game framework
-=============
+### [Spine](http://esotericsoftware.com) runtime for [Gideros](http://giderosmobile.com) game framework
 
 Tested with Spine 1.7.03 (Dec 06, 2014)
 
