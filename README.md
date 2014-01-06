@@ -3,7 +3,7 @@ Spine Gideros
 
 [Spine](http://esotericsoftware.com) runtime for [Gideros](http://giderosmobile.com) game framework. Base on [evs](http://www.giderosmobile.com/forum/profile/295/evs) initial work.
 
-Comes with sample project. Tested with Spine 1.7.03 (Dec 06, 2014)
+Comes with sample project. Tested with Spine 1.7.03 (Jan 06, 2014)
 
 ### Todo
 
